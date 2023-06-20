@@ -1,3 +1,9 @@
+# SkyFlow-Frontend
+University project named "SkyFlow" for "Advanced issues of programming in Java 2023" course.
+
+If you want to know more about project look to [WIKI](https://github.com/czyzewskijakub/SkyFlow-Frontend/wiki)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
